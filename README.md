@@ -53,13 +53,10 @@ Classified fraudulent transactions into **High, Medium, and Low Risk** based on 
 ### 7. Fraud Analysis Using Parameterized Stored Procedure
 Created a parameterized stored procedure to retrieve fraudulent transactions based on merchant risk level.
 
-## Project Files
+## Project Files## Project Files
 
 - 📄 [SQL Query File](./Fraud_Analytics.sql)
-- 📑 [Complete SQL Project Walkthrough](./Credit_Card_Fraud_Analysis_SQL_Project.pdf)
-
-- [SQL Query File](./Fraud_Analytics.sql)
-- [Complete Project Walkthrough](./Credit_Card_Fraud_Analysis_SQL_Project.pdf)
+- 📑 [Complete SQL Project Walkthrough](./Credit_Card_Fraud_Analytics_SQL_Walkthrough.pdf)
 
 The PDF contains the task-wise SQL queries, analysis, and query outputs.
 
